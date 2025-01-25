@@ -5,7 +5,7 @@
 L'entreprise Lapage est une librairie physique avec plusieurs points de vente. Elle a ouvert depuis 2 ans un site de vente en ligne suite au succès de certains de ses produits et l'engouement de ses clients. 
 L'entreprise souhaite à présent faire un point sur l'activité afin de mieux comprendre ses données
 
-## **Obejectifs** : 
+## **Objectifs** : 
 Les objectifs de ce projets sont :
 - Faire le point global sur les différents indicateurs et chiffres clés de l'entreprise
 - Cette analyse permettra d'adapter si besoin certains prix ou cibler un certain type de clientèle 
