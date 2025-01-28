@@ -7,7 +7,7 @@ L'entreprise souhaite à présent faire un point sur l'activité afin de mieux c
 
 ## **Objectifs** : 
 Les objectifs de ce projets sont :
-- Faire le point global sur les différents indicateurs et chiffres clés de l'entreprise
+- Faire le point global sur les différents indicateurs au cours du temps et chiffres clés de l'entreprise
 - Cette analyse permettra d'adapter si besoin certains prix ou cibler un certain type de clientèle 
 
 ## **Actions** : 
