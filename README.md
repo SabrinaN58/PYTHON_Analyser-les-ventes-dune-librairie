@@ -20,6 +20,6 @@ Les tâches réalisées durant ce projet sont :
 ## **Résultats** : 
 Ce que j'ai appris : 
 - Application de tests statistiques afin d'identifier le type de clientèle pour chaque catégorie de livre et aider l'entreprise à mieux cibler sa clientèle 
-- Communiquer les résultats à l'aide de graphiques afin que les informations pertinentes soients plus assimilables 
+- Communiquer les résultats à l'aide de graphiques afin que les informations pertinentes soient plus assimilables 
 - Mise en place du storytelling, travailler en mode projet avec une bonne organisation. J'ai également fait preuve d'un esprit analytique et de synthèse et d'un grand sens du détail.
 
